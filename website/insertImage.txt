@@ -1,0 +1,3 @@
+﻿INSERT INTO Image(carID,image)
+SELECT 1, BulkColumn
+FROM Openrowset(BULK 'path here', Single_Blob) AS image

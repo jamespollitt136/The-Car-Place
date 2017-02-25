@@ -1,0 +1,63 @@
+﻿body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+    margin: 5px 0;
+}
+
+/*index.aspx*/
+#search {
+    border-style: solid;
+    border-color: silver;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#searchDiv {
+    margin-left: 25px;
+}
+
+#searchResults {
+    border-style: solid;
+    border-color: silver;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+/*register.aspx*/
+#registration {
+    border-radius: 25px;
+    border-style: solid;
+    border-color: silver;
+    padding-top: 10px;
+    padding-left:530px;
+    padding-bottom: 25px;
+}
+
+/*login.aspx*/
+#loginForm {
+    border-radius: 25px;
+    border-style: solid;
+    border-color: silver;
+    padding-top: 10px;
+    padding-left: 530px;
+    padding-bottom: 25px;
+}
+
+/*memberPage.aspx*/
+#memberPage {
+    border-radius: 25px;
+    border-style: solid;
+    border-color: silver;
+    padding-left: 600px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
